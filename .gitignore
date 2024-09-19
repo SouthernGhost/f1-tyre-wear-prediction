@@ -163,4 +163,3 @@ cython_debug/
 
 #FastF1 Cache
 cache/
-lap_data/
