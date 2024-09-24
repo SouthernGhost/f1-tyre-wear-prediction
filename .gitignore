@@ -163,3 +163,7 @@ cython_debug/
 
 #FastF1 Cache
 cache/
+lap_data/
+testing.ipynb
+test/
+.gitignore
